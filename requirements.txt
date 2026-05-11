@@ -1,0 +1,6 @@
+feedparser
+pyspark
+streamlit
+streamlit-autorefresh
+openai
+pandas
